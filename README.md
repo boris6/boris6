@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=boris6)](https://git.io/streak-stats)
 
 <!--
 **boris6/boris6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
