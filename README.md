@@ -1,5 +1,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=boris6)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boris6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **boris6/boris6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
