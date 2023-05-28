@@ -5,7 +5,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=boris6&theme=blood)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boris6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boris6&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
